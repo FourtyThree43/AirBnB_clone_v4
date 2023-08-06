@@ -162,7 +162,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Second part of Airbnb: Joann Vuong
 
 ### Authors
-Patrick Maina - [Github](https://github.com/Patrick-052)
+Patrick Maina - [Github](https://github.com/Patrick-052)  
 Meshack ng'ang'a - [Github](https://github.com/FourtyThree43)
 
 Fourth part of Airbnb
