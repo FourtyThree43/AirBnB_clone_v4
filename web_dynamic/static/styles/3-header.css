@@ -15,7 +15,7 @@ header .logo {
     background-color: #cccccc;
     border-radius: 50%;
     position: absolute;
-    top: 50%;
+    top: 5%;
     right: 30px;
     transform: translateY(-50%);
 }
