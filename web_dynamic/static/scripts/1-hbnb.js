@@ -3,7 +3,7 @@
 
 document.ready(function () {
   const amenity = {};
-  $('input[type="checkbox"]').on('change', function () {
+  $("li input[type=checkbox]").on('change', function () {
     const amenityId = $(this).data('id');
     const amenityname = $(this).data('name');
     if ($(this).is(':checked')) {
